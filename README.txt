@@ -7,4 +7,4 @@
 •	What major challenges did you encounter when making the app?
 		The major challenges I encounter is that I cannot make the checkbox work and how I can connect it to the database.
 •	If you had more time, what additional features would you like to add?
-		I would like to add an archives for the TODO’s and notes so that he/she can go back and search if what did he/she do on that day. And also I would like to add log in for the user. 
+		I would like to add an archives for the TODO’s and notes so that he/she can go back and search if what did he/she do on that day. And also I would like to add log in for the user so that many users can use this app without mixing their TODO's and Note's.
